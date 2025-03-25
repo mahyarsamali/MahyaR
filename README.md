@@ -1,7 +1,7 @@
 ![](https://discord.c99.nl/widget/theme-1/998143234758946828.png)
 
 <!-- HTML !-->
-.button-31 {
+<button class="button-31" role="button" style="
   background-color: #222;
   border-radius: 4px;
   border-style: none;
@@ -26,12 +26,4 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: 100%;
-}
-
-.button-31:hover,
-.button-31:focus {
-  opacity: .75;
-}
-
-<button class="button-31" role="button">Button 31</button>
+  width: 100%;">Button 31</button>
