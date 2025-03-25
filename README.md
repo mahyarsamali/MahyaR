@@ -8,9 +8,9 @@
 
 ![](https://discord.c99.nl/widget/theme-1/998143234758946828.png)
 
-<p style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://discord.c99.nl/widget/theme-1/998143234758946828.png" alt="Discord Widget">
-</p>
+</div>
 
 
 <a href="http://ir-mp.ir/" target="_blank">
