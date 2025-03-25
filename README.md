@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p align="center"> 
+  My Profile Visitor Counter<br>
+  <img src="https://profile-counter.glitch.me/RotexRx/count.svg" />
+</p>
+
 ![](https://discord.c99.nl/widget/theme-1/998143234758946828.png)
 
 <a href="http://ir-mp.ir/" target="_blank">
