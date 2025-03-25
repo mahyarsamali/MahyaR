@@ -10,7 +10,8 @@
     <img src="https://discord.c99.nl/widget/theme-1/998143234758946828.png" alt="Discord Widget">
 </p>
 
-
-<a href="http://ir-mp.ir/" target="_blank">
-  <img src="https://s33.picofile.com/file/8483551892/New_Pr2oject_7.png" alt="iranmp" width="512" height="109" />
-</a>
+<p align="center">
+    <a href="http://ir-mp.ir/" target="_blank">
+      <img src="https://s33.picofile.com/file/8483551892/New_Pr2oject_7.png" alt="iranmp" width="256" height="58" />
+    </a>
+</p>
