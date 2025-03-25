@@ -1,8 +1,6 @@
 ![](https://discord.c99.nl/widget/theme-1/998143234758946828.png)
 
 <h2> 💻 &nbsp;My Working Setup</h2>
-- Pc Specs :
-
   - NVIDIA GeForce RTX 3050
 
   - Intel Core I5-13400F
