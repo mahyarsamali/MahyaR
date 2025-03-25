@@ -3,6 +3,9 @@
   <img src="https://profile-counter.glitch.me/mahyarsamali/count.svg" />
 </p>
 
+<br>
+<hr>
+
 ![](https://discord.c99.nl/widget/theme-1/998143234758946828.png)
 
 <a href="http://ir-mp.ir/" target="_blank">
